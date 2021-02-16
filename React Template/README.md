@@ -7,7 +7,7 @@ Copy the contents of that to the www folder in this project.
 
 You can make native apps from ReactJS projects by doing the same thing.
 
-Make sure the asset URLs in the built index.html file are relative ("./<path>") - 
+Make sure the asset URLs in the built index.html file are relative (`./<path>`) - 
 see the index.html file in the repo.
 
 Feel free to use it as the basis for your project.
