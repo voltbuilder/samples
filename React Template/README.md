@@ -1,9 +1,18 @@
-# Template
-A simple project for VoltBuilder apps.
+# React Template
+A simple React project for VoltBuilder apps.
 
-This is a fairly minimal running project which creates a working Android app.
-Feel free to use it as the basis for your project, or to test extra features.
+This project is made using the [standard React Tutorial](https://reactjs.org/tutorial/tutorial.html).
+After the tutorial is complete, you should have a dist folder in your project.
+Copy the contents of that to the www folder in this project.
+
+You can make native apps from ReactJS projects by doing the same thing.
+
+Make sure the asset URLs in the built index.html file are relative ("./<path>") - 
+see the index.html file in the repo.
+
+Feel free to use it as the basis for your project.
 Consult the Apache Cordova documention for all of the features of Cordova.
+
 
 ## How to run
 
