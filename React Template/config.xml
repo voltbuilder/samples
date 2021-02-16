@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Full info on config files: https://cordova.apache.org/docs/en/latest/config_ref/index.html -->
 <widget android-versionCode="1" id="build.voltbuilder.template" ios-CFBundleVersion="1" version="1.0.0" xmlns="https://www.w3.org/ns/widgets">
-    <name>Template</name>
-    <description>A simple config file for VoltBuilder apps.</description>
+    <name>ReactTemplate</name>
+    <description>A simple React template for VoltBuilder apps.</description>
     <icon src="nsb/images/192.png" />
     
     <plugin name="cordova-plugin-splashscreen" />
