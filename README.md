@@ -5,6 +5,8 @@ This is a fairly minimal running project which creates a working Android app.
 Feel free to use it as the basis for your project, or to test extra features.
 Consult the Apache Cordova documention for all of the features of Cordova.
 
+If you're using React, see the **React Template**.
+
 ## How to run
 
 1. Clone the repo onto your system.
