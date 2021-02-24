@@ -17,7 +17,7 @@ Consult the Apache Cordova documention for all of the features of Cordova.
 ## How to run
 
 1. Clone the repo onto your system.
-1. Zip the contents of the Template folder. (Not the folder itself - the contents!)
+1. Zip the contents of the Template folder.
 1. [Upload to VoltBuilder](https://volt.build/upload/) using the Android option.
 1. Wait about a minute for it to finish.
 1. Install the apk that is returned onto your device.
