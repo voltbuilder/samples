@@ -3,7 +3,7 @@
 <widget android-versionCode="1" id="build.voltbuilder.template" ios-CFBundleVersion="1" version="1.0.0" xmlns="https://www.w3.org/ns/widgets">
     <name>ReactTemplate</name>
     <description>A simple React template for VoltBuilder apps.</description>
-    <icon src="nsb/images/192.png" />
+    <icon src="/resources/android/icon/drawable-ldpi-icon.png" />
     
     <plugin name="cordova-plugin-splashscreen" />
         <preference name="SplashScreenDelay" value="2000" />
