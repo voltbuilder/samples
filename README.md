@@ -1,5 +1,10 @@
 # Samples
 
+**THIS REPOSITORY IS ARCHIVED! PLEASE USE THE FOLLOWING INSTEAD:**
+
+- https://github.com/voltbuilder/sample
+- https://github.com/voltbuilder/sample-react
+
 ## Template
 A simple project for VoltBuilder apps.
 
